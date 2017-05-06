@@ -1,1 +1,2 @@
-head(airquaity)
+head(airquality)
+tail(airquality)
