@@ -1,2 +1,2 @@
-# hello-world
-just for auther practiceing
+hello-world
+just for auther start use github
